@@ -1,5 +1,5 @@
-<h1 align="center" style="font-weight: bold"> Lucas Pistolesi</h1>
-<h3 align="center" style="font-weight: bold">Informatics Engineering</h3>
+<h1 align="center" style="font-weight: 900"> Lucas Pistolesi</h1>
+<h3 align="center" style="font-weight: 900">Informatics Engineering</h3>
 
 
 <h3 align="left">📧 Contact me by <a href="mailto:lucaspistolesi07@gmail.com">Email</a></h3>
