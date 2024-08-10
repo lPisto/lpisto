@@ -19,8 +19,5 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg">
 </picture>
-<img src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" alt="waves" height="100">
-
