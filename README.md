@@ -17,5 +17,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" alt="waves" height="400">
+<img src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" alt="waves" height="100">
 
