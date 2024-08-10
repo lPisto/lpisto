@@ -19,5 +19,5 @@
 
 
 <picture style="width: 100%">
-  <img src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" style="height: 100px">
+  <img src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" style="max-height: 100px; width: auto;">
 </picture>
