@@ -18,6 +18,6 @@
 </picture>
 
 
-<picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" style="height: 100px; width: auto;">
+<picture style="height: 100px; width: auto;">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" >
 </picture>
