@@ -19,5 +19,5 @@
 
 
 <picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" style="max-height: 400px; width: auto;">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" style="max-height: 100px; width: auto;">
 </picture>
