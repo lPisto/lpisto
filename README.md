@@ -18,6 +18,6 @@
 </picture>
 
 
-<picture style="height: 10px">
-  <img src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" syle="width:100%">
+<picture>
+  <img src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" style="height: 10px">
 </picture>
