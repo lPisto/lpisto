@@ -18,6 +18,6 @@
 </picture>
 
 
-<picture style="width: 100%; max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" style="height: 60px; width: auto; display: block; max-width: 100%;">
-</picture>
+<div style="width: 100%; overflow: hidden; position: relative; height: 60px;">
+  <img src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" style="position: absolute; top: 0; left: 0; height: 60px; width: auto;">
+</div>
