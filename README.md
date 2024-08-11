@@ -19,5 +19,5 @@
 
 
 <div style="width: 100%; overflow: hidden; position: relative; height: 60px;">
-  <img src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg">
+  <img src="https://raw.githubusercontent.com/Lpisto/lpisto/main/waves.svg" syle="width:100%">
 </div>
