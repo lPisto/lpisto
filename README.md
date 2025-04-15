@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Engineering</h3>
 
 
-<h3 align="left">📧 Contact me by <a href="mailto:lucaspistolesi07@gmail.com">Email</a></h3>
+<h3 align="left">📧 Contact me by <a href="mailto:pistolesilucas@gmail.com">Email</a></h3>
 <p align="left">
 </p>
 
